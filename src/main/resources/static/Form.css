@@ -1,9 +1,9 @@
 body{
-    background-color: lightblue;
 }
 
-#going{
-    color: red;
+#coninfo{
+    color: green;
+    margin: 220px;
 }
 
 #namediv{
@@ -12,4 +12,6 @@ body{
 
 #headdiv{
     background-color: green;
+    width: 100px;
+    length: 100px;
 }
