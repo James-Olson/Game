@@ -1,17 +1,34 @@
-body{
+body {
+    background-color: lightblue;
+
 }
 
-#coninfo{
-    color: green;
-    margin: 220px;
-}
-
-#namediv{
-    margin: 220px;
-}
-
-#headdiv{
+#headdiv {
     background-color: green;
-    width: 100px;
-    length: 100px;
+    width: 100%;
+    height: 100px;
+}
+
+#namediv {
+    margin-top: 100px;
+    margin-right: 350px;
+    margin-left: 350px;
+
+}
+
+#coninfo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    color: green;
+}
+
+#emaildiv{
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+#extradiv{
+    margin-top: 50px;
 }
